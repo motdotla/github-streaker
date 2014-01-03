@@ -25,6 +25,8 @@ Then go to <https://addons-sso.heroku.com/apps/your_app_name/addons/scheduler:st
 
 ![scheduler-screenshot](https://raw.github.com/scottmotte/github-streaker/master/scheduler-screenshot.png)
 
+That's it. You can forget this app is even running.
+
 ### Development
 
 ```
