@@ -8,7 +8,7 @@ Reminds yourself not to stop your streak on GitHub (with a friendly email remind
 
 ## Installation
 
-### Production
+### Heroku
 
 ```
 heroku create
@@ -25,7 +25,22 @@ Then go to <https://addons-sso.heroku.com/apps/your_app_name/addons/scheduler:st
 
 That's it. You can forget this app is even running.
 
-### Development
+### Click to cloud (beta)
+
+You can optionally install using `click-to-cloud`. Click to cloud is a binary I'm building to make it easier to deploy
+small application to cloud Paas like Heroku. I personally, use this approach, but your mileage may vary. 
+
+First, [install click-to-cloud](https://github.com/scottmotte/click-to-cloud#installation) on your machine.
+
+Second, run the following command.
+
+```bash
+click-to-cloud --repo https://github.com/scottmotte/github-streaker.git
+```
+
+That's it. That will install your application to Heroku.
+
+## Development
 
 ```
 cp .env.example .env
