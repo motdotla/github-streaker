@@ -17,7 +17,7 @@ git push heroku master
 
 Then go to <https://addons-sso.heroku.com/apps/your_app_name/addons/scheduler:standard> and set the UTC time to the appropriate time you'd like. For example, I want my reminder to check at 6pm Los Angeles time so I set it to 2am UTC.
 
-![](image here)
+![scheduler-screenshot](https://raw.github.com/scottmotte/github-streaker/master/scheduler-screenshot.png)
 
 ### Development
 
