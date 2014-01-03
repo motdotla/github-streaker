@@ -1,0 +1,17 @@
+{
+  "name": "github-streaker",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "main": "task.js",
+  "description": "Reminds you not to stop your streak on GitHub.",
+  "dependencies": {
+    "dotenv": "0.2.3",
+    "moment": "2.4.0",
+    "request": "2.21.0",
+    "sendgrid": "0.3.1"
+  }
+}
+
