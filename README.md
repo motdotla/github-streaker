@@ -1,8 +1,11 @@
 # github-streaker
 
-Let a robot remind you to make a GitHub commit that day if you have not already. Keep that streaking going.
-
 ![github-streaker](https://raw.github.com/scottmotte/github-streaker/master/github-streaker.png)
+
+Let a robot remind you to make a GitHub commit that day if you have not already. 
+Keep that streaking going.
+
+![github-streaker](https://raw.github.com/scottmotte/github-streaker/master/current-streak.png)
 
 ## Installation
 
