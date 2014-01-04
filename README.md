@@ -2,7 +2,8 @@
 
 ![github-streaker](https://raw.github.com/scottmotte/github-streaker/master/github-streaker.png)
 
-Reminds yourself not to stop your streak on GitHub (with a friendly email reminder). Keep your GitHub streak going just like this [Ryan guy](https://ryanseys.com/blog/177-days-of-github/) did.
+Reminds yourself to keep your GitHub streak going (with a friendly email reminder).
+Keep your GitHub streak going just like this [Ryan guy](https://ryanseys.com/blog/177-days-of-github/) did.
 
 ![github-streaker](https://raw.github.com/scottmotte/github-streaker/master/current-streak.png)
 
