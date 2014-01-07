@@ -39,7 +39,7 @@ Second, run the following command.
 click-to-cloud --repo https://github.com/scottmotte/github-streaker.git
 ```
 
-That's it. That will install your application to Heroku.
+Make sure you set the TO and GITHUB_USERNAME variables. After you have installed your application to Heroku.
 
 ## Development
 
