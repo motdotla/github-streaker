@@ -50,6 +50,6 @@ cp .env.example .env
 Configure with your credentials.
 
 ```
-node ./tasks.js
+node ./task.js
 ```
 
