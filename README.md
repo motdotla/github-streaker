@@ -13,8 +13,8 @@ Keep your GitHub streak going just like this [Ryan guy](https://ryanseys.com/blo
 
 ```
 heroku create
-heroku addons:add scheduler
-heroku addons:add sendgrid
+heroku addons:create scheduler
+heroku addons:create sendgrid
 heroku config:set TO=you@youremail.com
 heroku config:set GITHUB_USERNAME=your_github_username
 git push heroku master
